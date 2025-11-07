@@ -44,7 +44,7 @@ class NinjaCard extends StatelessWidget {
             ),
             SizedBox(height: 10.0),
             Text(
-              'Chur-Li',
+              'Chun-Li',
               style: TextStyle(
                   color: Colors.amberAccent[200],
                   letterSpacing: 2.0,
